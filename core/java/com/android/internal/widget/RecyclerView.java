@@ -5303,7 +5303,7 @@ public class RecyclerView extends ViewGroup implements ScrollingView, NestedScro
 
         private ViewCacheExtension mViewCacheExtension;
 
-        static final int DEFAULT_CACHE_SIZE = 2;
+        static final int DEFAULT_CACHE_SIZE = 4;
 
         /**
          * Clear scrap views out of this recycler. Detached views contained within a
